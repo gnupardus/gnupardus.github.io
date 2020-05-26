@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    font-family: monospace;
+    font-size: 16px;
+    color: black;
+}
+
+body {
+    font-size: 16px;
+    font-family: monospace;
+}
+
+header {
+    padding: 30px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 35px;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 16px;
+    font-family: monospace;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    font-size: 16px;
+    font-family: monospace;
+    color: black;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
